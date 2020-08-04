@@ -1,3 +1,17 @@
+body{
+    background-image: url(weather_background_cute_stylized_icons_decor_6835599.jpg);
+}
+
+/* weather forecast heading */
+h1{
+    background: #fffae0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Weather container */
 .weather-container{
     background: #e3f4fe;
     text-align: center;
